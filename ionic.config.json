@@ -1,0 +1,7 @@
+{
+  "name": "vue_binary_tree",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
